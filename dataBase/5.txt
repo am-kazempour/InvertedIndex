@@ -1,0 +1,7 @@
+Welcome to our Python bootcamp! In this mini bootcamp, you will learn the fundamentals of Python. This powerful programming language is widely used in web development, data science and artificial intelligence, and many other fields.
+You will learn the fundamentals of Python over a 3 weeks period together with a live instructor and an interactive cohort of engaged learners!
+Coding is an important skill to learn if you want to invest in yourself and your future. The W3Schools Bootcamps and Certification Program can help you to upgrade your skills and to stay relevant in the job market.
+The W3Schools Bootcamps teach popular development languages like JavaScript, ReactJS, Python, SQL, and many others. These are skills that are in demand on the job market, and you can get them by participating and completing a bootcamp.
+When you finish the bootcamp, you will get a certification. This shows that you have learned the subject of the bootcamp and that you are committed to learning. The certification will make you stand out in the job market and might even help you get paid more.
+Invest in yourself and your career, and you will be investing in the future.
+Find the right bootcamp for you and start right away.

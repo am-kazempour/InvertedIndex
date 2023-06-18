@@ -1,0 +1,5 @@
+Learn to build powerful modern web applications.
+Master front-end and back-end development with HTML, CSS, JavaScript, Git, React, Node.js and SQL.
+Our 6-month online bootcamp covers all of the core technical skills you need to start your career in web development. We focus on hands-on experience with the latest tools and technologies used in the industry, to ensure students are ready for jobs in tech after completing our bootcamp.
+W3Schools has been a trusted source of online learning for over 23 years, and our proven curriculum has helped millions of learners from all over the world. Our constantly updated and improved learning materials ensure that you'll learn the latest techniques and best practices in web development.
+Join our web development bootcamp today and discover why W3Schools has been the go-to platform for learners for over 23 years!
